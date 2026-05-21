@@ -123,7 +123,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     alignItems: "center",
-    backgroundColor: "#333"
+    backgroundColor: "#25292e"
   },
   imageContainer: {
     flex: 1
